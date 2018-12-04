@@ -1,0 +1,8 @@
+*.opendb
+*.suo
+*.db
+*.sln
+/Test/GeneratedFiles
+/Test/Test.vcxproj*
+*.log
+Debug
